@@ -1,3 +1,3 @@
-ScrollReveal().reveal('.cabezera', { delay: 1000 });
+ScrollReveal().reveal('header', { delay: 800 });
+ScrollReveal().reveal('nav', { delay: 800 });
 ScrollReveal().reveal('p', { delay: 1000 });
-ScrollReveal().reveal('footer', { delay: 1000 });
