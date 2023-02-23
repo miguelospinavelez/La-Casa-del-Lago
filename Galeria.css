@@ -37,7 +37,12 @@ a {
     padding: 10px;
 }
 
-p {
+.presentation img {
+    width: 400px;
+    height: 500px;
+}
+
+.presentation {
     align-content: center;
     padding: 95px;
     padding-top: 30px;

@@ -39,6 +39,11 @@ a {
     padding: 10px;
 }
 
+.presentation img {
+    width: 400px;
+    height: 500px;
+}
+
 p {
     align-content: center;
     padding: 95px;
